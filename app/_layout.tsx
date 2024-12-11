@@ -90,7 +90,7 @@ const styles = StyleSheet.create({
     },
     image: {
       height: "89%",
-      borderRadius: 11
+      borderRadius: 10
     },
     banner: {
       height: 40,
