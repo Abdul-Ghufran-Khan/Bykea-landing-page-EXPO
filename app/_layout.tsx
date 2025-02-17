@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
     row: {
       flex: 1,
       flexDirection: "row",
-      gap: 6,
+      gap: 7,
     },
     rowcard: {
       flex: 1,
